@@ -1,0 +1,16 @@
+body { font-family: 'Segoe UI', Tahoma, sans-serif; background: #f5f5f5; margin: 0; padding: 20px; }
+.container { max-width: 900px; margin: auto; background: #fff; padding: 25px; border-radius: 12px; box-shadow: 0 3px 10px rgba(0,0,0,.1); }
+h1 { text-align: center; color: #333; }
+.form-group, .form-group-inline { margin-bottom: 15px; }
+.form-group-inline { display: flex; gap: 10px; }
+label { display: block; font-weight: 600; margin-bottom: 6px; }
+input, select, button { width: 100%; padding: 8px; border-radius: 6px; border: 1px solid #ccc; }
+button { background: #3483fa; color: #fff; border: none; cursor: pointer; font-weight: 700; }
+button:hover { background: #2968c8; }
+#meta { margin-top: 10px; color: #666; font-size: 14px; }
+#results { margin-top: 20px; }
+.result-card { display: flex; gap: 12px; border-bottom: 1px solid #e7e7e7; padding: 10px 0; }
+.result-card img { width: 120px; height: 120px; object-fit: contain; border-radius: 8px; background: #f0f0f0; }
+.info-box { flex: 1; }
+.result-card a { color: #3483fa; text-decoration: none; font-weight: 600; }
+.result-card a:hover { text-decoration: underline; }

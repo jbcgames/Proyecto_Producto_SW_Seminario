@@ -1,0 +1,1 @@
+curl -X GET "https://api.mercadolibre.com/sites/MCO/search?q=samsung&sort=price_asc" -H "Authorization: Bearer APP_USR-5147663164543880-102517-fcbfd6647b802345e60cde9cedb2f7b0-652925437"

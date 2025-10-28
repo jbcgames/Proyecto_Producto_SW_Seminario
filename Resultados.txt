@@ -1,0 +1,107 @@
+[
+  {
+    "title": "Samsung Galaxy S23 Dual SIM 128 GB lavander 8 GB RAM - Excelente (Reacondicionado)",
+    "price": 1299900,
+    "condition": "Reacondicionado",
+    "shipping": "Envío gratis",
+    "link": "https://www.mercadolibre.com.co/samsung-galaxy-s23-dual-sim-128-gb-lavander-8-gb-ram-excelente-reacondicionado/p/MCO2000107130#polycard_client=search-nordic&search_layout=stack&position=1&type=product&tracking_id=2a4dcd76-8cb2-4b62-b057-3bec8eab9cf1&wid=MCO1590290109&sid=search"
+  },
+  {
+    "title": "Samsung Galaxy S23 Dual SIM 256 GB green 8 GB RAM - Excelente (Reacondicionado)",
+    "price": 3899900,
+    "condition": "Reacondicionado",
+    "shipping": "Envío gratis",
+    "link": "https://www.mercadolibre.com.co/samsung-galaxy-s23-dual-sim-256-gb-green-8-gb-ram-excelente-reacondicionado/p/MCO2000041675#polycard_client=search-nordic&search_layout=stack&position=2&type=product&tracking_id=2a4dcd76-8cb2-4b62-b057-3bec8eab9cf1&wid=MCO1593461281&sid=search"
+  },
+  {
+    "title": "Samsung Galaxy S23 Fe 256gb 8gb Ram Verde",
+    "price": 2990000,
+    "condition": null,
+    "shipping": "Llega gratis el lunes",
+    "link": "https://www.mercadolibre.com.co/samsung-galaxy-s23-fe-256gb-8gb-ram-verde/p/MCO27958209#polycard_client=search-nordic&search_layout=stack&position=3&type=product&tracking_id=2a4dcd76-8cb2-4b62-b057-3bec8eab9cf1&wid=MCO2443054200&sid=search"
+  },
+  {
+    "title": "Smartphone Samsung Galaxy S23 Ultra 5G, 256 GB, 12 GB de RAM, pantalla 6.8 de doble chip Graphite Infinity",
+    "price": 4619900,
+    "condition": null,
+    "shipping": "Llega gratis el lunes",
+    "link": "https://www.mercadolibre.com.co/smartphone-samsung-galaxy-s23-ultra-5g-256-gb-12-gb-de-ram-pantalla-68-de-doble-chip-graphite-infinity/p/MCO24254388#polycard_client=search-nordic&search_layout=stack&position=4&type=product&tracking_id=2a4dcd76-8cb2-4b62-b057-3bec8eab9cf1&wid=MCO2694566752&sid=search"
+  },
+  {
+    "title": "Samsung Galaxy S23 Fe 128gb 8gb Ram Color Purple - Excelente (Reacondicionado)",
+    "price": 3599900,
+    "condition": "Reacondicionado",
+    "shipping": "Llega gratis el lunes",
+    "link": "https://www.mercadolibre.com.co/samsung-galaxy-s23-fe-128gb-8gb-ram-color-purple-excelente-reacondicionado/p/MCO2000071763#polycard_client=search-nordic&search_layout=stack&position=5&type=product&tracking_id=2a4dcd76-8cb2-4b62-b057-3bec8eab9cf1&wid=MCO3176559124&sid=search"
+  },
+  {
+    "title": "Samsung Galaxy S24 5G Dual SIM 256 GB onyx black 8 GB RAM",
+    "price": 4799900,
+    "condition": null,
+    "shipping": "Envío gratis",
+    "link": "https://www.mercadolibre.com.co/samsung-galaxy-s24-5g-dual-sim-256-gb-onyx-black-8-gb-ram/p/MCO29699966#polycard_client=search-nordic&search_layout=stack&position=6&type=product&tracking_id=2a4dcd76-8cb2-4b62-b057-3bec8eab9cf1&wid=MCO2234932592&sid=search"
+  },
+  {
+    "title": "Samsung Galaxy S23 Fe 128gb 8gb Ram Negro",
+    "price": 4873032,
+    "condition": null,
+    "shipping": "Llega gratis el lunes",
+    "link": "https://www.mercadolibre.com.co/samsung-galaxy-s23-fe-128gb-8gb-ram-negro/p/MCO27955968#polycard_client=search-nordic&search_layout=stack&position=7&type=product&tracking_id=2a4dcd76-8cb2-4b62-b057-3bec8eab9cf1&wid=MCO2331941796&sid=search"
+  },
+  {
+    "title": "Samsung Galaxy S23 5g Sm-s911u1 8gb 128gb Snapdragon",
+    "price": 4399000,
+    "condition": null,
+    "shipping": "Llega gratis el lunes",
+    "link": "https://articulo.mercadolibre.com.co/MCO-1404952003-samsung-galaxy-s23-5g-sm-s911u1-8gb-128gb-snapdragon-_JM?searchVariation=182622017561#polycard_client=search-nordic&searchVariation=182622017561&search_layout=stack&position=8&type=item&tracking_id=2a4dcd76-8cb2-4b62-b057-3bec8eab9cf1"
+  },
+  {
+    "title": "Samsung Galaxy S23+ 8gb + 512gb Liberado Rosa Color Rosa - Excelente (Reacondicionado)",
+    "price": 4999900,
+    "condition": "Reacondicionado",
+    "shipping": "Llega gratis el lunes",
+    "link": "https://www.mercadolibre.com.co/samsung-galaxy-s23-8gb-512gb-liberado-rosa-color-rosa-excelente-reacondicionado/p/MCO2000134854#polycard_client=search-nordic&search_layout=stack&position=9&type=product&tracking_id=2a4dcd76-8cb2-4b62-b057-3bec8eab9cf1&wid=MCO2946543572&sid=search"
+  },
+  {
+    "title": "Smartphone Samsung Galaxy S23 Ultra 5g 256gb Lavanda - Veri",
+    "price": 3721100,
+    "condition": null,
+    "shipping": "Envío gratis",
+    "link": "https://articulo.mercadolibre.com.co/MCO-2937160690-smartphone-samsung-galaxy-s23-ultra-5g-256gb-lavanda-veri-_JM#polycard_client=search-nordic&search_layout=stack&position=10&type=item&tracking_id=2a4dcd76-8cb2-4b62-b057-3bec8eab9cf1"
+  },
+  {
+    "title": "Samsung Galaxy S23 Ultra Dual Sim 512 Gb Phantom Black 12 Gb Ram Caja Maltratada",
+    "price": 4999000,
+    "condition": null,
+    "shipping": "Llega gratis el lunes",
+    "link": "https://www.mercadolibre.com.co/samsung-galaxy-s23-ultra-dual-sim-512-gb-phantom-black-12-gb-ram-caja-maltratada/p/MCO23053436#polycard_client=search-nordic&search_layout=stack&position=11&type=product&tracking_id=2a4dcd76-8cb2-4b62-b057-3bec8eab9cf1&wid=MCO2694566788&sid=search"
+  },
+  {
+    "title": "Samsung Galaxy S23 Ultra 5g Sm-s918bds 8gb 256gb Dual Exynos",
+    "price": 5599000,
+    "condition": null,
+    "shipping": "Envío gratis",
+    "link": "https://articulo.mercadolibre.com.co/MCO-1407128393-samsung-galaxy-s23-ultra-5g-sm-s918bds-8gb-256gb-dual-exynos-_JM?searchVariation=182245238835#polycard_client=search-nordic&searchVariation=182245238835&search_layout=stack&position=12&type=item&tracking_id=2a4dcd76-8cb2-4b62-b057-3bec8eab9cf1"
+  },
+  {
+    "title": "Samsung Galaxy S23 Ultra 5g Sm-s918bds 12gb 512gb Dual Exyno",
+    "price": 5999000,
+    "condition": null,
+    "shipping": "Envío gratis",
+    "link": "https://articulo.mercadolibre.com.co/MCO-1407185667-samsung-galaxy-s23-ultra-5g-sm-s918bds-12gb-512gb-dual-exyno-_JM?searchVariation=182247145081#polycard_client=search-nordic&searchVariation=182247145081&search_layout=stack&position=13&type=item&tracking_id=2a4dcd76-8cb2-4b62-b057-3bec8eab9cf1"
+  },
+  {
+    "title": "Samsung Galaxy S23+ Plus 5g Sm-s916u 8gb 512gb Snapdragon",
+    "price": 4299000,
+    "condition": null,
+    "shipping": "Envío gratis",
+    "link": "https://articulo.mercadolibre.com.co/MCO-2280443556-samsung-galaxy-s23-plus-5g-sm-s916u-8gb-512gb-snapdragon-_JM?searchVariation=182187510693#polycard_client=search-nordic&searchVariation=182187510693&search_layout=stack&position=14&type=item&tracking_id=2a4dcd76-8cb2-4b62-b057-3bec8eab9cf1"
+  },
+  {
+    "title": "Samsung Galaxy S23 5g Sm-s911bds 8gb 128gb Dual Exynos",
+    "price": 4099000,
+    "condition": null,
+    "shipping": "Envío gratis",
+    "link": "https://articulo.mercadolibre.com.co/MCO-1404560399-samsung-galaxy-s23-5g-sm-s911bds-8gb-128gb-dual-exynos-_JM?searchVariation=182142050411#polycard_client=search-nordic&searchVariation=182142050411&search_layout=stack&position=15&type=item&tracking_id=2a4dcd76-8cb2-4b62-b057-3bec8eab9cf1"
+  }
+]

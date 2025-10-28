@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Buscador MercadoLibre</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <div class="container">
+    <h1>🔎 Buscador de Productos - MercadoLibre</h1>
+
+    <form id="searchForm">
+      <div class="form-group">
+        <label for="q">Palabra clave:</label>
+        <input type="text" id="q" name="q" placeholder="Ej: samsung s23" required/>
+      </div>
+
+      <div class="form-group-inline">
+        <div>
+          <label for="min_price">Precio mínimo:</label>
+          <input type="number" id="min_price" name="min_price" placeholder="0"/>
+        </div>
+        <div>
+          <label for="max_price">Precio máximo:</label>
+          <input type="number" id="max_price" name="max_price" placeholder="0"/>
+        </div>
+      </div>
+
+      <div class="form-group-inline">
+        <div>
+          <label for="condition">Estado:</label>
+          <select id="condition" name="condition">
+            <option value="">Todos</option>
+            <option value="nuevo">Nuevo</option>
+            <option value="usado">Usado</option>
+          </select>
+        </div>
+        <div>
+          <label for="envio">Envío:</label>
+          <select id="envio" name="envio">
+            <option value="">Todos</option>
+            <option value="gratis">Gratis</option>
+            <option value="no">Pago</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="form-group-inline">
+        <div>
+          <label for="site">Dominio:</label>
+          <select id="site" name="site">
+            <option value="mercadolibre.com.co">Colombia (.co)</option>
+            <option value="mercadolibre.com.mx">México (.mx)</option>
+            <option value="mercadolibre.com.ar">Argentina (.ar)</option>
+          </select>
+        </div>
+        <div>
+          <label for="refresh_sec">Refrescar cada (seg):</label>
+          <input type="number" id="refresh_sec" name="refresh_sec" value="60" min="10"/>
+        </div>
+      </div>
+
+      <!-- Placeholder para futuro: Telegram/WhatsApp -->
+      <div class="form-group">
+        <label for="telefono">Teléfono (para Telegram/WhatsApp):</label>
+        <input type="text" id="telefono" name="telefono" placeholder="+57 3xx xxx xxxx"/>
+        <small>(Por ahora no se usa; quedará listo para el bot.)</small>
+      </div>
+
+      <button type="submit">Buscar</button>
+    </form>
+
+    <div id="meta"></div>
+    <div id="results"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
