@@ -62,11 +62,18 @@
       </div>
 
       <!-- Placeholder para futuro: Telegram/WhatsApp -->
+      <!-- dentro del form -->
       <div class="form-group">
-        <label for="telefono">Teléfono (para Telegram/WhatsApp):</label>
-        <input type="text" id="telefono" name="telefono" placeholder="+57 3xx xxx xxxx"/>
-        <small>(Por ahora no se usa; quedará listo para el bot.)</small>
+        <label for="telefono">Teléfono (Telegram)*:</label>
+        <input type="text" id="telefono" name="telefono" placeholder="+57 3xx xxx xxxx" required />
+        <small>Debes haber hablado antes con el bot para registrar el chat.</small>
       </div>
+
+      <div class="form-group-inline">
+        <button type="submit">Buscar (solo web)</button>
+        <button type="button" id="btnSubscribe">Suscribirme (bot)</button>
+      </div>
+
 
       <button type="submit">Buscar</button>
     </form>

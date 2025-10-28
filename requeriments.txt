@@ -1,3 +1,6 @@
 fastapi
 uvicorn
 playwright
+ngrok config add-authtoken TU_AUTHTOKEN
+.\uvicorn main:app --reload
+ngrok http 8000

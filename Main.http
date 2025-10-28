@@ -1,1 +1,7 @@
-curl -X GET "https://api.mercadolibre.com/sites/MCO/search?q=samsung&sort=price_asc" -H "Authorization: Bearer APP_USR-5147663164543880-102517-fcbfd6647b802345e60cde9cedb2f7b0-652925437"
+POST http://127.0.0.1:8000/register_chat
+Content-Type: application/json
+
+{
+  "phone": "+573053012999",
+  "chat_id": "7267519674"
+}
